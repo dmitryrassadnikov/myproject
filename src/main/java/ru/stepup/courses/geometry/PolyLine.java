@@ -19,7 +19,7 @@
 Подсказка: текстовое представление объекта лучше реализовывать в переопределенном методе toString()
  */
 
-package ru.stepup.courses.oop;
+package ru.stepup.courses.geometry;
 
 import java.util.Arrays;
 

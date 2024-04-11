@@ -9,7 +9,7 @@ x=’3’
 результат: 3
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 
 public class CharToNum {

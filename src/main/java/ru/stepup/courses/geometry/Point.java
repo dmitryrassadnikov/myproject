@@ -10,7 +10,7 @@
 Выведите на экран текстовое представление этих точек и результат сравнения точек между собой. Убедитесь, что оба сравнения дали false.
  */
 
-package ru.stepup.courses.oop;
+package ru.stepup.courses.geometry;
 
 public class Point {
     int x, y;

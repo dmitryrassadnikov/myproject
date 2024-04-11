@@ -12,7 +12,7 @@ x=516
 результат: false
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class Is2Digits {
     public static void main(String[] args) {

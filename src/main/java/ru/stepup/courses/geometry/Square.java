@@ -18,7 +18,7 @@ x=4
 ****
  */
 
-package ru.stepup.courses.cycle;
+package ru.stepup.courses.geometry;
 
 public class Square {
     public static void main(String[] args) {
@@ -31,7 +31,7 @@ public class Square {
             for (int j = 0; j < x; j++) {
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }

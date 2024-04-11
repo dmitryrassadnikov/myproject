@@ -1,4 +1,4 @@
-package ru.stepup.courses.oop;
+package ru.stepup.courses.geometry;
 
 public class StartPoint {
     public static void main(String[] args) {

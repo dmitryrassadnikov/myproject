@@ -12,7 +12,7 @@ a=2 b=15 с=2
 результат: false
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class IsEqual {
     public static void main(String[] args) {

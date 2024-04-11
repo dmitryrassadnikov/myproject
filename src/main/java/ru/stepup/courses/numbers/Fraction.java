@@ -9,7 +9,7 @@ x=5,3
 результат: 0,3
 */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 
 public class Fraction {

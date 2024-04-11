@@ -18,7 +18,7 @@ x=4
 ****
  */
 
-package ru.stepup.courses.cycle;
+package ru.stepup.courses.geometry;
 
 public class LeftTriangle {
     public static void main(String[] args) {

@@ -13,7 +13,7 @@ x=’q’
 результат: false
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class IsUpperCase {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.stepup.courses.oop;
+package ru.stepup.courses.geometry;
 
 import java.util.Arrays;
 

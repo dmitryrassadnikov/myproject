@@ -13,7 +13,7 @@ a=2 b=15
  */
 
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class IsDivisor {
     public static void main(String[] args) {

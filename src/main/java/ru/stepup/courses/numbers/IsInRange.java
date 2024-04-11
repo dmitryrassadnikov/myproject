@@ -14,7 +14,7 @@ a=2 b=15 num=33
 результат: false
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class IsInRange {
     public static void main(String[] args) {

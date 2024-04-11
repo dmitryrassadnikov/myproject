@@ -13,7 +13,7 @@ x=-5
  */
 
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class IsPositive {
     public static void main(String[] args) {

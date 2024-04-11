@@ -23,7 +23,7 @@ public static int lastNumSum(int a, int b){
  */
 
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class LastNumSum {
     public static void main(String[] args) {

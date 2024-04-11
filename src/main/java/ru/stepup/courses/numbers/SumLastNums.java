@@ -11,7 +11,7 @@ x=4568
 результат: 14
  */
 
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class SumLastNums {
     public static void main(String[] args) {

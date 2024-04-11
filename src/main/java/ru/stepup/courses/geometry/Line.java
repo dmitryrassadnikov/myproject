@@ -28,7 +28,7 @@
 ·       наименование метода расчета длины линии - getLength
  */
 
-package ru.stepup.courses.oop;
+package ru.stepup.courses.geometry;
 
 import static java.lang.Math.round;
 import static java.lang.Math.sqrt;

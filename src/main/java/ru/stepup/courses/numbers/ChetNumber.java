@@ -1,4 +1,4 @@
-package ru.stepup.courses.classesandmethods;
+package ru.stepup.courses.numbers;
 
 public class ChetNumber {
     public static void main(String[] args) {
