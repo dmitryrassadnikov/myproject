@@ -11,12 +11,14 @@
 package ru.stepup.courses.main;
 
 import java.util.Scanner;
+import static java.lang.Integer.parseInt;
+import static java.lang.Math.pow;
 
 public class Main {
     public static double power(String x, String y) {
-        int num = Integer.parseInt(x);
-        int powNum = Integer.parseInt(y);
-        return Math.pow(num, powNum);
+        int num = parseInt(x);
+        int powNum = parseInt(y);
+        return pow(num, powNum);
     }
 
     public static void main(String[] args) {
