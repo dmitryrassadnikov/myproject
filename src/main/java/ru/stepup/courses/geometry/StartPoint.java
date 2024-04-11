@@ -13,4 +13,3 @@ public class StartPoint {
         System.out.println(point2 == point3);
     }
 }
-
